@@ -1,0 +1,52 @@
+select {
+font-size: 35px;
+padding: 8px 12px;
+border-radius: 6px;
+font-family: 'Times New Roman';
+border: 1px solid #aaa;
+background: #fff;
+font-weight: bold;
+cursor: pointer;
+}
+.cod {
+display: block;
+background: #222;
+color: #1f1;
+position: relative;
+box-sizing: border-box;
+font-size: 16px;
+text-shadow: 0 0 8px #0f0;
+font-family: monospace;
+padding: 8px;
+border: 2px solid black;
+width: 100%;
+}
+.center {
+text-align: center;
+}
+.md {
+border: 1px solid black;
+background: #ffffff;
+text-align: left;
+padding: 15px;
+}
+button {
+border: 1px solid black;
+border-radius: 10px;
+padding: 8px 16px;
+font-family: 'Times New Roman';
+cursor: pointer;
+font-size: 20px;
+}
+.sbtn {
+background: #ccffff;
+}
+#WYSIWYG {
+background: #ffffcc;
+border: 1px solid black;
+border-radius: 10px;
+padding: 20px;
+font-family: 'Times New Roman';
+cursor: pointer;
+font-size: 20px;
+}
